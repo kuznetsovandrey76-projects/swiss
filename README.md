@@ -1,13 +1,13 @@
 ### СНАРЯЖЕНИЕ
-:heavy_check_mark: палки - 270гр.  
+:heavy_check_mark: трекинговые палки - 270гр.  
 :heavy_check_mark: коврик - 300гр.  
 :heavy_check_mark: палатка - 2300гр. (2700гр.)     
 :heavy_check_mark: спальник - 2300гр. (в т.ч. 150гр. чехол)   
 :heavy_check_mark: рюкзак - 2350гр.   
-:no_entry: дождевик - 610гр.   
 :heavy_check_mark: очки - 90гр. (в т.ч. 40гр. чехол)   
 :heavy_check_mark: сидушка - 70гр.   
-:heavy_check_mark: налобный фонарик + 6 AAA - 150гр.     
+:heavy_check_mark: налобный фонарик + 6 AAA - 150гр.   
+:heavy_check_mark: компас     
 ### ОБУВЬ
 :heavy_check_mark: обувь Mammut - 1300гр.  
 :heavy_check_mark: кроссовки Asics - 570гр.     
@@ -24,14 +24,12 @@
 ### КУХНЯ И ПИТАНИЕ
 :heavy_check_mark: горелки - 2шт. - 410гр.    
 :heavy_check_mark: газ Kovea (бол.) - 2шт - 1320гр.   
-:no_entry: газ (большой/мал.) - 660гр./370гр.   
-:no_entry: `Наш Газ - 315гр. - 3ч. горения`  
-еда (3000-3500ккал/день)   
+:heavy_check_mark: посуда - 310гр. (в т.ч. кастрюля 200гр.)  
 :heavy_check_mark: каши 30 * 80гр - 2400гр.  
 :heavy_check_mark: кружка, ложка, миска - 310гр.    
 нож  
-кастрюля    
-:heavy_check_mark: питьевая бутылка  
+:heavy_check_mark: питьевая бутылка - 10гр.   
+еда (3000-3500ккал/день)   
 ### ЭЛЕКТРОНИКА
 :heavy_check_mark: powerbank - 220гр.  
 :heavy_check_mark: телефон - 2шт - 260гр.     
