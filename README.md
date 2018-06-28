@@ -21,7 +21,7 @@
 :heavy_check_mark: термобелье верх/низ - 460гр. (верх - 240гр.)  
 :no_entry: трусы  
 :heavy_check_mark: шорты легкие - 160гр.     
-:no_entry: носки трекинговые (3+1)  
+:heavy_check_mark: носки трекинговые (2+2)  
 :heavy_check_mark: перчатки - 50гр.    
 :no_entry: полотенце  
 :heavy_check_mark: спортивные футболки - 3шт. - 450гр.    
@@ -37,7 +37,10 @@
 :heavy_check_mark: складная канистра - 200гр.      
 ### ЭЛЕКТРОНИКА
 :heavy_check_mark: powerbank - 220гр.  
-:heavy_check_mark: телефон - 2шт - 260гр.     
+:heavy_check_mark: телефон - 2шт - 260гр.   
+:heavy_check_mark: навигатор - гр.   
+:heavy_check_mark: камера - гр.   
+:heavy_check_mark: зарядки - гр.  
 ### АКСЕССУАРЫ
 :no_entry: документы - 240гр. (в т.ч. гермочехол для документов)   
 аптечка - 320гр. (в т.ч. гигиеническая помада)  
